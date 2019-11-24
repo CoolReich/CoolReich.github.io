@@ -1,0 +1,1 @@
+# CoolReich Blog
