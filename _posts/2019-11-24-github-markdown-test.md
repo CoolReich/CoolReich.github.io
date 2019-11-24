@@ -11,9 +11,9 @@ tags: tag1, tag2, tag3
 
 ***
 
-<pre><code class='python'>
+'''python
 from datetime import datetime
 print(datetime.now())
-</code></pre>
+'''
 
 ## References
