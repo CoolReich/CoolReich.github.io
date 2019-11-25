@@ -1,9 +1,6 @@
 ---
 title: Github.io를 시작하며
 date: 2019-11-23 23:33:00
-categories:
-- 
-tags: 
 ---
 
 ## 와우 나도 github.io 블로그 한다
