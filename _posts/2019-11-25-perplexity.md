@@ -7,4 +7,4 @@ title: Perplexity (Cont.)
 
 
 ## Equation Test
-$$2^{H(p)}=2^{\sum_{x}}
+$$2^{H(p)}=2^{\sum_{x}}$$
